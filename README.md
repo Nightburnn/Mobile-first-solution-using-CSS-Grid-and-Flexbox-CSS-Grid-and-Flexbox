@@ -4,7 +4,7 @@ I tackled the [QR code component challenge on Frontend Mentor](https://www.front
 
 ### Screenshot
 
-![](.![image](https://github.com/Nightburnn/Mobile-first-solution-using-CSS-Grid-and-Flexbox-CSS-Grid-and-Flexbox/assets/62528557/f8fc339e-1347-4178-90b4-9505d1439c9a)
+![](.![image](https://github.com/Nightburnn/Mobile-first-solution-using-CSS-Grid-and-Flexbox-CSS-Grid-and-Flexbox/image.png)
 )
 
 
